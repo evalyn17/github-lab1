@@ -18,4 +18,4 @@ jobs:
           python-version: "3.12"
 
       - name: Run application
-        run: python app.py
+        run: python price_app.py
